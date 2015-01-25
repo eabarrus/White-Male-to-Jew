@@ -36,6 +36,29 @@ function handleText(textNode)
 	v = v.replace(/\bwhite Male\b/g, "Jew");
 	v = v.replace(/\bwhite male\b/g, "Jew");
 	
+	v = v.replace(/\bCis Male\b/g, "Jew");
+	v = v.replace(/\bCis male\b/g, "Jew");
+	v = v.replace(/\bcis Male\b/g, "Jew");
+	v = v.replace(/\bcis male\b/g, "Jew");
+	
+	v = v.replace(/\bCis White Male\b/g, "Jew");
+	v = v.replace(/\bCis White male\b/g, "Jew");
+	v = v.replace(/\bCis white male\b/g, "Jew");
+	v = v.replace(/\bcis white male\b/g, "Jew");
+	v = v.replace(/\bcis White male\b/g, "Jew");
+	v = v.replace(/\bcis White Male\b/g, "Jew");
+	v = v.replace(/\bcis white Male\b/g, "Jew");
+	v = v.replace(/\bCis white Male\b/g, "Jew");
+	
+	v = v.replace(/\bWhite Cis Male\b/g, "Jew");
+	v = v.replace(/\bWhite Cis male\b/g, "Jew");
+	v = v.replace(/\bwhite Cis male\b/g, "Jew");
+	v = v.replace(/\bwhite cis male\b/g, "Jew");
+	v = v.replace(/\bWhite cis male\b/g, "Jew");
+	v = v.replace(/\bWhite cis Male\b/g, "Jew");
+	v = v.replace(/\bwhite cis Male\b/g, "Jew");
+	v = v.replace(/\bwhite Cis Male\b/g, "Jew");
+	
 	textNode.nodeValue = v;
 }
 
