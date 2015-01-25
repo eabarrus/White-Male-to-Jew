@@ -1,4 +1,4 @@
-cloud-to-butt
+White Male-to-Jew
 =============
 
 Chrome extension that replaces occurrences of 'white male' with 'Jew'
